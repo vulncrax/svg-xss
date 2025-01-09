@@ -6,6 +6,7 @@
   </a>
 
   <h3 align="center">SVG XSS Payloads</h3>
+  </div>
 
 <br>
 <h3>This repository contains a collection of SVG-based XSS payloads designed for security testing purposes. These payloads are crafted to exploit vulnerabilities in web applications that mishandle SVG files.</h3>
